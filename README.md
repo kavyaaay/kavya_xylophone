@@ -6,5 +6,5 @@ A new flutter application, that has flat buttons, which on pressing play 7 notes
 
 Flutter package used : audioplayers 
 
-#### Images 
+## Images 
 [Image of the UI included in issues]
